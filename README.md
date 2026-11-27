@@ -18,9 +18,5 @@ Each project has its own folder with code, a README, and figures.
 - Data visualization: PCA, volcano plot, MA plot, clustered heatmap
 - Working with public data (NCBI GenBank, GEO) and reproducible code
 
-## Coming next
-- Pathway enrichment (GO / KEGG) on the lung cancer results
-- Sequence alignment algorithms implemented from scratch
-
 ## License
 MIT
